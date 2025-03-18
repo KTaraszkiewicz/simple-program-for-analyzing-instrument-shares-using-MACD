@@ -1,0 +1,1 @@
+# simple-program-for-analyzing-instrument-shares-using-MACD
