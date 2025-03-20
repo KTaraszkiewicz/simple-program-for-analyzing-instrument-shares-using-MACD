@@ -190,4 +190,4 @@ signal_span = 9
 
 
 # Analyze Etherum
-analyze_asset(getAnyAssetByCode, "ETH-USD", "4y","Etherum")
+analyze_asset(getAnyAssetByCode, "ETH-USD","Etherum","4y")
